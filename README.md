@@ -58,7 +58,7 @@ local Modules = {
 	TextBox = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/L3nyFromV3rm/Leny-UI/refs/heads/main/Modules/TextBox.lua", true))(),
 	Navigation = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/L3nyFromV3rm/Leny-UI/refs/heads/main/Modules/Navigation.lua", true))(),
 	ColorPicker = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/L3nyFromV3rm/Leny-UI/refs/heads/main/Modules/ColorPicker.lua", true))(),
- 	Paragraph = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/HubGood999/TextBox_2/refs/heads/main/README.md", true))(),
+ 	Paragraph = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/HubGood999/TextBox_2/refs/heads/main/README.md"))(),
 }
 
 local Utility = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/L3nyFromV3rm/Leny-UI/refs/heads/main/Modules/Utility.lua", true))()
